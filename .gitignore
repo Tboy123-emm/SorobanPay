@@ -17,10 +17,10 @@ frontend/.env.*.local
 Thumbs.db
 
 # Editor
-.vscode/settings.json
 *.swp
 *.swo
 
 # Stellar CLI
 .stellar/
 identity.json
+config.bat
